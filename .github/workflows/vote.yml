@@ -7,4 +7,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Evaluate vote
-        uses: myyk/git-democracy
+        uses: myyk/git-democracy@master
