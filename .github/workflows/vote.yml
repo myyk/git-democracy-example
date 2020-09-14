@@ -1,0 +1,10 @@
+name: 'vote'
+on:
+  pull_request:
+
+jobs:
+  democracy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Evaluate vote
+        uses: myyk/git-democracy
