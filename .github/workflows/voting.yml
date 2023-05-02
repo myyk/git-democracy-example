@@ -9,4 +9,4 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Evaluate vote
-        uses: myyk/git-democracy@clear-on-change
+        uses: myyk/git-democracy@v1
