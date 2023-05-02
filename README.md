@@ -3,3 +3,5 @@ Example of usage of [git-democracy](https://github.com/myyk/git-democracy) githu
 
 # New Rules
 Only babies can contribute to this project.
+
+IM BABY
