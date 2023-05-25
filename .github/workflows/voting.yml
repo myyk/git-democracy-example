@@ -9,4 +9,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Evaluate vote
-        uses: myyk/git-democracy@config-in-workflow-dir,
+        uses: myyk/git-democracy@config-in-workflow-dir
+        with:
+          configPath: .github/workflows
+
